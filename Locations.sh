@@ -9,7 +9,7 @@ PG_USER=postgresuser
 PG_PASSWORD=password
 _JAVA_OPTIONS=-Dspring.profiles.active=postgres' >>/etc/environment
 
-# update package index and install required packages                  
+# update package index and install required packages  juuuuuuuuuuuuui                
 sudo apt-get update
 sudo apt-get install apache2 default-jdk ca-certificates-java openjdk-17-jre-headless postgresql -y
 
